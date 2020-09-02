@@ -2,5 +2,5 @@
 
 Prueba de blog
 
-[Enlace](http://moodle.org)
+[Enlace](http://google.com)
 
